@@ -1,0 +1,1 @@
+export default class fantasma extends Phaser.GameObjects.Sprite {}
