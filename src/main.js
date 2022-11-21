@@ -14,9 +14,16 @@ const config = {
     type: Phaser.AUTO,
     width: 1280,
     height: 720,
+    //fisica arcade
+    physics: {  
+        default: 'arcade',
+            arcade: {
+            gravity: { y: 500 }, // will affect our player sprite
+            debug: false // change if you need
+            }
+        },
     backgroundColor: 0x000000, // sfondo nero
     scene: [ SceneWelcome, SceneCutscene, ScenePaese, SceneMiniera, SceneMinatore1, SceneMinatore2, SceneMinatore2, SceneMinatoreOstile, UI, PauseMenu ],
     pixelArt: true,
     parent: "game_area" // Specifica il div contenitore
 };
-
