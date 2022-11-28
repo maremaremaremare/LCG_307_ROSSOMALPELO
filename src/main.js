@@ -23,9 +23,15 @@ const config = {
     }
 },
 
-
-    backgroundColor: 0x000000, // sfondo nero
+    backgroundColor: 0xFFFFFF, // sfondo nero
     scene: SceneMiniera,
     pixelArt: true,
     parent: "game_area" // Specifica il div contenitore
 };
+
+let game = new Phaser.Game(config);
+game.gameState = {
+    playTime: 30,
+    score: 0,
+    lives: 3
+}

@@ -5,10 +5,10 @@
  "layers":[
         {
          "id":2,
-         "image":"BASE.jpg",
+         "image":"..\/..\/MAPPA\/BASE.jpg",
          "name":"BASE",
-         "offsetx":2279.93154592128,
-         "offsety":68.4540787221904,
+         "offsetx":2279.93,
+         "offsety":68.4541,
          "opacity":1,
          "type":"imagelayer",
          "visible":true,
@@ -655,23 +655,32 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/..\/..\/..\/Downloads\/source\/assets\/TILE.tsx"
+         "source":"..\/..\/..\/..\/..\/Downloads\/source\/assets\/TILE.tsx"
         }, 
         {
          "firstgid":2,
-         "source":"..\/..\/..\/..\/Downloads\/source\/assets\/LEGNO.tsx"
+         "source":"..\/..\/..\/..\/..\/Downloads\/source\/assets\/LEGNO.tsx"
         }, 
         {
          "firstgid":3,
-         "source":"..\/..\/..\/..\/Downloads\/source\/assets\/SFONDO.tsx"
+         "source":"..\/..\/..\/..\/..\/Downloads\/source\/assets\/SFONDO.tsx"
         }, 
         {
          "firstgid":4,
-         "source":"..\/..\/..\/..\/Downloads\/source\/assets\/TERRA.tsx"
+         "source":"..\/..\/..\/..\/..\/Downloads\/source\/assets\/TERRA.tsx"
         }, 
         {
+         "columns":10,
          "firstgid":5,
-         "source":"..\/..\/..\/..\/Downloads\/source\/assets\/TILESET.tsx"
+         "image":"..\/..\/MAPPA\/TILESET.jpg",
+         "imageheight":700,
+         "imagewidth":700,
+         "margin":0,
+         "name":"TILESET",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":70,
+         "tilewidth":70
         }],
  "tilewidth":70,
  "type":"map",
