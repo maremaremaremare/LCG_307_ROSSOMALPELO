@@ -30,13 +30,14 @@ export default class SceneMiniera extends Phaser.Scene {
       }
 
       create() {
+        console.log("SceneMiniera- Executing create()");
         // carica mappa
         map = this.make.tilemap({key: 'map'});
-
+        console.log("SceneMiniera- CREO MAPPA()");
         // tile dell terreno
         var groundTiles = map.addTilesetImage('tiles');
         // crea livello terreno
-        groundLayer = map.createDynamicLayer('World', groundTiles, 0, 0);
+        groundLayer = map.createLayer('World', groundTiles, 0, 0);
         // il player collide
         groundLayer.setCollisionByExclusion([-1]);
 

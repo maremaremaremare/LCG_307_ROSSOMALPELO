@@ -1,0 +1,41 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "MAPPA.tmx#BASE MINIERA": {
+            "scaleInEditor": 1
+        },
+        "tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets",
+    "last.externalTilesetPath": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/MAPPA",
+    "last.imagePath": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets",
+    "map.height": 40,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 70,
+    "map.tileWidth": 70,
+    "map.width": 40,
+    "openFiles": [
+    ],
+    "project": "MINIERA.tiled-project",
+    "recentFiles": [
+        "tileset.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 70,
+        "width": 70
+    }
+}
