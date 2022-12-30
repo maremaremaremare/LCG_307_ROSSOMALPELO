@@ -18,14 +18,14 @@ const config = {
     physics: {
         default: 'arcade',
             arcade: {
-            gravity: { y: 500 },
-            debug: false
-    }
-},
+              gravity: {y: 500},
+              debug: false
+              }
+            },
 
     backgroundColor: 0xFFFFFF, // sfondo nero
-    scene: SceneMiniera,
-    pixelArt: true,
+    scene: [SceneWelcome,SceneMiniera,SceneMinatoreOstile],
+    pixelArt: false,
     parent: "game_area" // Specifica il div contenitore
 };
 

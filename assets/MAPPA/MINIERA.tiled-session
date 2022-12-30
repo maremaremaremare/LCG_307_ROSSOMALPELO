@@ -3,14 +3,54 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
         "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json": {
+            "scale": 0.37,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1171.6216216216214,
+                "y": 598.6486486486485
+            }
+        },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json#MINATORE": {
             "scaleInDock": 1
         },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json#ORO": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json#TILE_PROVA": {
+            "scaleInDock": 1
+        },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json#ZUPPA": {
+            "scaleInDock": 1
+        },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json#coin": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json#tiles": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MAPPA.tmx": {
+            "scale": 0.1773,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1401.5792442188383,
+                "y": 1353.637901861252
+            }
+        },
         "MAPPA.tmx#BASE MINIERA": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "tileset.tsx": {
@@ -21,6 +61,7 @@
     "last.exportedFilePath": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets",
     "last.externalTilesetPath": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/MAPPA",
     "last.imagePath": "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
     "map.height": 40,
     "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
     "map.lastUsedFormat": "tmx",
@@ -28,14 +69,18 @@
     "map.tileWidth": 70,
     "map.width": 40,
     "openFiles": [
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json"
     ],
     "project": "MINIERA.tiled-project",
+    "property.type": "int",
     "recentFiles": [
+        "/Users/fmfettucciari/Desktop/PRIMO SEMESTRE 22:23/COMPUTER GRAFICA/307_ROSSOMALPELO/assets/map2.json",
+        "MAPPA.tmx",
         "tileset.tsx"
     ],
     "tileset.embedInMap": true,
     "tileset.tileSize": {
-        "height": 70,
+        "height": 140,
         "width": 70
     }
 }
